@@ -2,14 +2,14 @@
   <img src="https://media.tenor.com/190VNRXUHXYAAAAd/person-of-interest-poi.gif" width="400" height="200">
 </p>
 <h1 align="center">Hi 💻, I'm Betul</h1>
-<h3 align="center">"Discover the World Through the Eyes of Machines"</h3>
+<h3 align="center">"Discover the World With Machines"</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betul93&label=Profile%20views&color=0e75b6&style=flat" alt="betul93" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Pattern Recognation and Deep Learning, 3D Computer Vision**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, CNN, LLM, CV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
